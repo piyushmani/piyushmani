@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**piyushmani/piyushmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 👋 Hi, I’m @piyushraj-007
 - 👀 I’m interested in full-stack development
