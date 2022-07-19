@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/11583380?s=400&u=7c48bd0a1f4e0ebd8852a18d468b62eea6d6025f&v=4" width="200"/>
+  <img src="https://media.giphy.com/media/l3q2ufk4HuocUWMta/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/piyushrajmani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
