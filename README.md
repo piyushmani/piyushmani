@@ -96,9 +96,13 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/o
 
 ### :fire: My Stats :
 
+<div style="display: flex; flex-direction: row; align-items: flex-start">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=piyushmani&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushmani&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmani&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
