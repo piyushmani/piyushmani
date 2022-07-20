@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/piyushrajmani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -97,11 +97,11 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/o
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=piyushmani&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=piyushmani&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=piyushmani&theme=tokyonight"/></td>
+    <td valign="top"><img  src="https://github-readme-streak-stats.herokuapp.com?user=piyushmani&theme=tokyonight"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmani&layout=compact&hide=Jupyter%20Notebook&langs_count=6&theme=tokyonight"/></td>
+    <td valign="top"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmani&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight"/></td>
 
   </tr>
 </table>
