@@ -23,7 +23,7 @@
 
 I am a Full Stack Developer from India <img src="https://media.giphy.com/media/oUjv1KgOwiLkY/giphy.gif" width="40">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring System Design and Golang.
+- :seedling: Exploring System Design and Golang .
 - :zap: In my free time, I calculate how much time I have wasted till now.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyushrajmani/)
 
