@@ -98,7 +98,7 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/o
     <!-- GitHub Stats Card -->  
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=piyushmani&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img  src="https://github-readme-streak-stats.herokuapp.com?user=piyushmani&theme=tokyonight"/></td>
+    
     <!-- GitHub Top Language Card -->
     <td valign="top"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmani&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight"/></td>
 
