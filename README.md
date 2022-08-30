@@ -103,5 +103,5 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/o
     <td valign="top"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmani&layout=compact&hide=Jupyter%20Notebook&langs_count=8&theme=tokyonight"/></td>
 
   </tr>
-</table> 
+</table>
 
