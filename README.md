@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img width="1600" height="533" alt="image" src="https://github.com/user-attachments/assets/05434045-a707-45d7-a580-88d4894d7509" />
+  <!-- <img width="1600" height="533" alt="image" src="https://github.com/user-attachments/assets/05434045-a707-45d7-a580-88d4894d7509" /> -->
+  <img width="3400" height="920" alt="image" src="https://github.com/user-attachments/assets/0f0361c6-90da-4987-8af5-7de0a3a3ee62" />
+
 
 
   <div id="badges">
