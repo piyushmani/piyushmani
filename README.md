@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/fea8e33c-787a-4ad9-a1d7-886f5730e8e2" />
+  <img width="1600" height="533" alt="image" src="https://github.com/user-attachments/assets/05434045-a707-45d7-a580-88d4894d7509" />
+
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/piyush-raj-full-stack">
